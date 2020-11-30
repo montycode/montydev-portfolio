@@ -22,7 +22,7 @@ export const aboutData = {
     'Hello! My name is Omar Montoya. I work as front end web developer. I have passion for web design, minimalist and easy to use interfaces.',
   paragraphTwo: 'I love working with technologies like React with a MERN stack.',
   paragraphThree: 'I have experience working with REST API architecture.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1xRuI3kWTKghfTAHLcHGNDZZJtegLpSt4/view', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -31,8 +31,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Coming Soon...',
-    info: '',
-    info2: '',
+    info: ' ',
+    info2: ' ',
     url: '',
     repo: '', // if no repo, the button will not show up
   },
